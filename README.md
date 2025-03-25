@@ -72,6 +72,11 @@ cartoon = cv2.convertScaleAbs(cartoon, alpha=1.0, beta=10)
 
 ## 🖼️ Example Output
 
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/2f49aad0-7606-4ad2-9f16-7339451f6d34" width="40%" height="40%">  
+  <img src = "https://github.com/user-attachments/assets/167ad3a2-dbd2-4b55-9803-a20eec540d2a" width="40%" height="40%">
+</p>
+
 
 <br><br>
 
